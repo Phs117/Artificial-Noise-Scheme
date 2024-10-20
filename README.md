@@ -1,0 +1,1 @@
+For more informations about the design of the Artificial Noise, see https://www.researchgate.net/publication/374988908_Assessment_of_an_Artificial_Noise_Scheme_in_PLC_Systems_under_the_Presence_of_a_Passive_WLC_Eavesdropper
